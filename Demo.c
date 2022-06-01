@@ -7,8 +7,12 @@ int main{
   printf("addition value is %d",c);
   printf("\n");
   int sub=b-a;
+
   printf("performed add and sub ");
   printf("done with branch2");
+
+  printf("sub value is%d",sub);
+
 return 0;
 }
   
