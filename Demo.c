@@ -6,6 +6,7 @@ int main{
   c=a+b;
   printf("addition value is %d",c);
   printf("\n");
+  int sub=b-a;
 return 0;
 }
   
