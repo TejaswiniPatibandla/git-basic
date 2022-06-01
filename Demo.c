@@ -5,6 +5,7 @@ int main{
   scanf("%d %d %d",&a,&b,&c);
   c=a+b;
   printf("addition value is %d",c);
+  printf("\n");
 return 0;
 }
   
