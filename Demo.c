@@ -7,6 +7,7 @@ int main{
   printf("addition value is %d",c);
   printf("\n");
   int sub=b-a;
+  printf("sub value is%d",sub);
 return 0;
 }
   
